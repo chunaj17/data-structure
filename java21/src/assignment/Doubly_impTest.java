@@ -24,7 +24,7 @@ done.findNode(8);
 done.findNode(2);
 //done.emptylist();
 System.out.println("***************************");
-System.out.println("*    thank you!!!!        *");
+System.out.println("*    thank you sir!!!!    *");
 System.out.println("***************************");
 }
 }
